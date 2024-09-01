@@ -1,0 +1,5 @@
+# start
+
+print('mika')
+
+# end
